@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="100%" height="auto"
-     viewBox="0 0 1200 320">
+     width="100%"
+     viewBox="0 0 1200 200">
 
-  <rect width="100%" height="100%" fill="#0693e3" />
+  <rect width="100%" height="50%" fill="#0693e3" />
 
   <image href="https://github.com/sarahckohl/consumerhealthinfo/blob/main/CRS.png"
-         width="95%" height="95%%"
+         width="80%" height="95%%"
          preserveAspectRatio="xMidYMid meet" />
 </svg>
 
