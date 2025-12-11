@@ -19,8 +19,11 @@ layout: default
 
 # Reliable Websites About Your Medications
 ## A Guide for Patients Taking Antipsychotics
-  
 
+### Cleveland Clinic: [Antipsychotic Medications](https://my.clevelandclinic.org/health/treatments/24692-antipsychotic-medications)
+### Drugs.com: [Atypical antipsychotics](https://www.drugs.com/drug-class/atypical-antipsychotics.html)
+### Drugs.com: [Antipsychotics](https://www.drugs.com/drug-class/antipsychotics.html)
+### Medline Plus: [Type the name of your medication to find more info about it](https://medlineplus.gov)
 
 
 
