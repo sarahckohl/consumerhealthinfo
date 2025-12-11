@@ -5,7 +5,7 @@
   <rect width="100%" height="100%" fill="#005a87" />
 
   <image href="https://github.com/sarahckohl/consumerhealthinfo/blob/main/CRS.png"
-         width="80%" height="100%"
+         width="100%" height="100%"
          preserveAspectRatio="xMidYMid meet" />
 </svg>
 
