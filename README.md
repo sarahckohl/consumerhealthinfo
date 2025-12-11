@@ -1,2 +1,3 @@
-# consumerhealthinfo
-NURS-7303 Project, Oklahoma University
+# Reliable Websites About Your Medications
+## A Guide for Patients Taking Antipsychotics
+
