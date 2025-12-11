@@ -2,7 +2,7 @@
      width="100%" height="auto"
      viewBox="0 0 1200 320">
 
-  <rect width="100%" height="100%" fill="#005a87" />
+  <rect width="90%" height="90%" fill="#005a87" />
 
   <image href="https://github.com/sarahckohl/consumerhealthinfo/blob/main/CRS.png?raw=true"
          width="100%" height="100%"
